@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/kinopsis/Documents/sies-m/platforms/android/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/home/kinopsis/Documents/sies-m/platforms/android/res/xml/config.xml"
+    }
+]

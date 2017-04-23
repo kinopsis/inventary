@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kinopsis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_5074e1cd1de520c7d749513a34a7465a11a1cf5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41e55f50e3d4d0eda414594dfd6c0950a347f62f">
+        <dex dex="/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_089fd6e607de4cf39afc1cdd70ca8f763a26724b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinopsis/Documents/sies-m/platforms/android/libs/sqlite-connector.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76169ab23a4f939925491c6fe186749da5a56ee9">
+        <dex dex="/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/pre-dexed/debug/sqlite-connector_872469223c3740faa8785172c90fb5d62fb4538e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_7d3cb4369ee9bf24a9e480fb166eb5426045d76a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/kinopsis/Documents/sies-m/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_b6761178e68a6c29a50da9e67e0edfe254bc12cf.jar" />
+    </item>
+
+</items>
